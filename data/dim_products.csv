@@ -1,0 +1,23 @@
+product_id,product_name,category,unit_price,unit_cost
+PROD-0001,Noise-Cancelling Headphones Pro,Electronics,180.0,75.0
+PROD-0002,Wireless Mechanical Keyboard,Electronics,95.0,35.0
+PROD-0003,Ultra-HD 4K Monitor 27-inch,Electronics,320.0,160.0
+PROD-0004,USB-C Multi-Port Docking Station,Electronics,65.0,22.0
+PROD-0005,Smartwatch Fitness Tracker V2,Electronics,140.0,50.0
+PROD-0006,Ergonomic Vertical Mouse,Electronics,45.0,15.0
+PROD-0007,High-Speed Wireless Charger,Electronics,30.0,9.0
+PROD-0008,Ergonomic Mesh Office Chair,Office & Furniture,250.0,110.0
+PROD-0009,Adjustable Standing Desk 48x30,Office & Furniture,380.0,180.0
+PROD-0010,Monitor Arm Heavy Duty,Office & Furniture,55.0,18.0
+PROD-0011,Under-Desk Cable Management Tray,Office & Furniture,25.0,7.0
+PROD-0012,Anti-Fatigue Standing Mat,Office & Furniture,40.0,12.0
+PROD-0013,Tech Merino Wool Hoodie,Apparel & Lifestyle,85.0,28.0
+PROD-0014,Commuter Waterproof Backpack,Apparel & Lifestyle,110.0,38.0
+PROD-0015,All-Weather Running Jacket,Apparel & Lifestyle,95.0,32.0
+PROD-0016,Insulated Stainless Water Bottle,Apparel & Lifestyle,28.0,8.0
+PROD-0017,Polarized UV Sunglasses,Apparel & Lifestyle,60.0,15.0
+PROD-0018,Smart LED Ambient Light Bar,Home & Smart Living,45.0,14.0
+PROD-0019,Aroma Essential Oil Diffuser,Home & Smart Living,35.0,10.0
+PROD-0020,Smart Air Purifier HEPA H13,Home & Smart Living,160.0,70.0
+PROD-0021,Robotic Vacuum Cleaner Slim,Home & Smart Living,280.0,120.0
+PROD-0022,Ceramic Pour-Over Coffee Kit,Home & Smart Living,42.0,12.0

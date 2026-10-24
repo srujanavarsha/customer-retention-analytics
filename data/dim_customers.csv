@@ -1,0 +1,1201 @@
+customer_id,signup_date,acquisition_channel,country,customer_type
+CUST-00001,2025-10-16,Paid Search,Germany,Individual
+CUST-00002,2024-05-22,Social Ads,Germany,SMB
+CUST-00003,2024-03-30,Organic SEO,United States,Individual
+CUST-00004,2024-08-26,Organic SEO,United States,Individual
+CUST-00005,2025-10-27,Social Ads,United States,Individual
+CUST-00006,2024-10-11,Email Referral,United States,SMB
+CUST-00007,2025-12-15,Organic SEO,United States,Individual
+CUST-00008,2026-02-20,Paid Search,United States,Individual
+CUST-00009,2026-05-17,Paid Search,United States,Individual
+CUST-00010,2025-04-15,Organic SEO,Australia,Individual
+CUST-00011,2025-07-19,Paid Search,United Kingdom,SMB
+CUST-00012,2025-01-05,Organic SEO,Germany,Individual
+CUST-00013,2024-08-21,Social Ads,Australia,SMB
+CUST-00014,2026-06-06,Paid Search,United States,Individual
+CUST-00015,2025-01-08,Paid Search,United States,Individual
+CUST-00016,2025-12-19,Affiliate,United Kingdom,Individual
+CUST-00017,2024-06-24,Organic SEO,United States,Individual
+CUST-00018,2024-10-03,Affiliate,United Kingdom,Individual
+CUST-00019,2025-12-02,Paid Search,Germany,Individual
+CUST-00020,2026-04-21,Paid Search,United States,Individual
+CUST-00021,2024-08-04,Email Referral,United Kingdom,SMB
+CUST-00022,2024-08-05,Social Ads,United States,Corporate
+CUST-00023,2025-04-14,Paid Search,United States,SMB
+CUST-00024,2025-07-05,Paid Search,United Kingdom,SMB
+CUST-00025,2025-02-12,Organic SEO,Australia,Individual
+CUST-00026,2025-05-20,Paid Search,United States,Individual
+CUST-00027,2025-10-04,Paid Search,Germany,Individual
+CUST-00028,2025-01-29,Organic SEO,Australia,Individual
+CUST-00029,2025-07-20,Email Referral,United States,SMB
+CUST-00030,2025-11-29,Email Referral,Germany,SMB
+CUST-00031,2024-12-14,Paid Search,United States,Individual
+CUST-00032,2026-01-09,Email Referral,United States,Individual
+CUST-00033,2024-07-01,Organic SEO,United States,Individual
+CUST-00034,2026-05-11,Social Ads,United Kingdom,Individual
+CUST-00035,2026-02-19,Paid Search,Australia,Corporate
+CUST-00036,2026-07-29,Paid Search,United States,Individual
+CUST-00037,2025-01-06,Email Referral,Canada,Individual
+CUST-00038,2024-02-29,Paid Search,United Kingdom,Individual
+CUST-00039,2026-01-19,Organic SEO,United States,SMB
+CUST-00040,2026-02-23,Paid Search,Germany,Corporate
+CUST-00041,2024-06-18,Paid Search,Canada,Individual
+CUST-00042,2024-08-04,Affiliate,Germany,Individual
+CUST-00043,2025-12-31,Paid Search,Australia,Individual
+CUST-00044,2025-03-24,Email Referral,United Kingdom,Individual
+CUST-00045,2024-03-06,Paid Search,United Kingdom,Individual
+CUST-00046,2024-08-13,Paid Search,Germany,Individual
+CUST-00047,2024-03-10,Email Referral,Canada,Individual
+CUST-00048,2024-08-31,Paid Search,United Kingdom,Individual
+CUST-00049,2026-01-10,Affiliate,United Kingdom,Individual
+CUST-00050,2026-03-14,Organic SEO,United States,Individual
+CUST-00051,2025-11-05,Organic SEO,United States,Individual
+CUST-00052,2026-01-16,Paid Search,Germany,Individual
+CUST-00053,2024-03-03,Organic SEO,United States,SMB
+CUST-00054,2024-09-11,Paid Search,United Kingdom,Individual
+CUST-00055,2024-07-06,Paid Search,United States,Corporate
+CUST-00056,2025-03-29,Email Referral,Canada,Individual
+CUST-00057,2025-10-29,Affiliate,Canada,Corporate
+CUST-00058,2026-02-10,Email Referral,United States,Individual
+CUST-00059,2024-08-06,Email Referral,Canada,Individual
+CUST-00060,2024-01-03,Affiliate,United States,SMB
+CUST-00061,2025-04-10,Paid Search,Germany,SMB
+CUST-00062,2026-03-13,Organic SEO,Germany,Individual
+CUST-00063,2024-10-30,Paid Search,United States,SMB
+CUST-00064,2024-03-03,Social Ads,United States,Individual
+CUST-00065,2025-05-29,Email Referral,United Kingdom,Individual
+CUST-00066,2025-06-04,Paid Search,United States,Individual
+CUST-00067,2025-11-22,Email Referral,United States,Corporate
+CUST-00068,2025-08-06,Paid Search,United Kingdom,Individual
+CUST-00069,2025-03-05,Social Ads,United Kingdom,Individual
+CUST-00070,2024-09-24,Paid Search,Germany,Individual
+CUST-00071,2025-02-09,Paid Search,United Kingdom,Individual
+CUST-00072,2026-02-08,Affiliate,United States,Individual
+CUST-00073,2025-07-30,Affiliate,United States,Individual
+CUST-00074,2024-09-28,Paid Search,United States,Individual
+CUST-00075,2024-09-07,Organic SEO,United States,SMB
+CUST-00076,2025-12-21,Paid Search,Australia,SMB
+CUST-00077,2025-06-25,Paid Search,Canada,Individual
+CUST-00078,2025-11-10,Paid Search,Canada,Individual
+CUST-00079,2026-06-30,Paid Search,United Kingdom,Individual
+CUST-00080,2025-09-11,Paid Search,United States,Individual
+CUST-00081,2026-05-23,Paid Search,United Kingdom,Corporate
+CUST-00082,2026-05-16,Paid Search,United Kingdom,SMB
+CUST-00083,2024-02-15,Paid Search,Germany,Individual
+CUST-00084,2024-09-25,Paid Search,United States,SMB
+CUST-00085,2025-07-28,Paid Search,United States,SMB
+CUST-00086,2026-07-14,Paid Search,United States,Individual
+CUST-00087,2025-07-19,Paid Search,United States,Individual
+CUST-00088,2026-07-09,Affiliate,Australia,Individual
+CUST-00089,2025-01-01,Paid Search,United States,Individual
+CUST-00090,2026-03-09,Organic SEO,Canada,Corporate
+CUST-00091,2026-02-06,Paid Search,Australia,SMB
+CUST-00092,2026-03-30,Email Referral,Canada,Individual
+CUST-00093,2026-01-24,Affiliate,Germany,Individual
+CUST-00094,2025-11-16,Email Referral,Canada,Individual
+CUST-00095,2026-03-17,Social Ads,United States,Individual
+CUST-00096,2025-04-26,Paid Search,Canada,Individual
+CUST-00097,2024-11-08,Email Referral,Canada,Individual
+CUST-00098,2025-11-06,Paid Search,United States,SMB
+CUST-00099,2026-03-02,Paid Search,United Kingdom,Individual
+CUST-00100,2026-05-13,Organic SEO,Australia,Individual
+CUST-00101,2024-09-24,Paid Search,Australia,Individual
+CUST-00102,2024-04-21,Organic SEO,United States,SMB
+CUST-00103,2025-03-22,Social Ads,United Kingdom,Individual
+CUST-00104,2025-08-13,Paid Search,United States,Individual
+CUST-00105,2025-06-16,Affiliate,United Kingdom,SMB
+CUST-00106,2026-01-29,Social Ads,United States,Individual
+CUST-00107,2025-11-11,Affiliate,United Kingdom,Individual
+CUST-00108,2024-05-07,Social Ads,United States,Individual
+CUST-00109,2025-02-22,Paid Search,Germany,Individual
+CUST-00110,2024-07-15,Organic SEO,Australia,Individual
+CUST-00111,2026-07-13,Paid Search,United Kingdom,Individual
+CUST-00112,2026-05-03,Paid Search,United States,Individual
+CUST-00113,2025-08-16,Social Ads,United States,Individual
+CUST-00114,2025-11-22,Paid Search,United Kingdom,Corporate
+CUST-00115,2026-03-26,Social Ads,Germany,Individual
+CUST-00116,2025-11-10,Social Ads,United States,SMB
+CUST-00117,2026-02-08,Paid Search,United States,SMB
+CUST-00118,2024-05-30,Paid Search,United States,Individual
+CUST-00119,2026-05-20,Social Ads,United Kingdom,SMB
+CUST-00120,2025-08-12,Paid Search,Germany,Individual
+CUST-00121,2024-09-06,Paid Search,Germany,SMB
+CUST-00122,2026-05-31,Social Ads,United States,Individual
+CUST-00123,2024-06-29,Email Referral,Germany,Individual
+CUST-00124,2025-07-24,Paid Search,Canada,Individual
+CUST-00125,2026-03-31,Organic SEO,United Kingdom,Individual
+CUST-00126,2024-11-20,Affiliate,Canada,Individual
+CUST-00127,2026-01-06,Email Referral,United States,Corporate
+CUST-00128,2025-04-01,Email Referral,Germany,Individual
+CUST-00129,2024-09-22,Social Ads,Canada,Individual
+CUST-00130,2026-03-07,Organic SEO,United Kingdom,Individual
+CUST-00131,2024-03-20,Social Ads,United States,Individual
+CUST-00132,2026-07-03,Organic SEO,United States,Individual
+CUST-00133,2025-12-11,Paid Search,United States,Individual
+CUST-00134,2024-12-04,Organic SEO,United States,Individual
+CUST-00135,2025-03-06,Organic SEO,Germany,Corporate
+CUST-00136,2024-01-21,Email Referral,Germany,Individual
+CUST-00137,2024-01-07,Affiliate,United States,Individual
+CUST-00138,2026-07-02,Affiliate,United States,SMB
+CUST-00139,2025-07-13,Social Ads,Canada,Individual
+CUST-00140,2024-10-06,Organic SEO,United States,Individual
+CUST-00141,2025-11-26,Social Ads,Germany,SMB
+CUST-00142,2026-07-30,Paid Search,United Kingdom,Individual
+CUST-00143,2025-02-07,Organic SEO,Germany,Individual
+CUST-00144,2025-03-14,Paid Search,United Kingdom,Individual
+CUST-00145,2025-01-23,Paid Search,United Kingdom,Individual
+CUST-00146,2026-06-19,Organic SEO,Germany,SMB
+CUST-00147,2024-09-15,Email Referral,United Kingdom,SMB
+CUST-00148,2024-02-23,Affiliate,United States,Individual
+CUST-00149,2026-03-10,Affiliate,United States,Individual
+CUST-00150,2024-09-10,Paid Search,United States,Individual
+CUST-00151,2024-05-09,Organic SEO,United States,Corporate
+CUST-00152,2025-04-21,Social Ads,Germany,Individual
+CUST-00153,2025-09-13,Affiliate,Germany,SMB
+CUST-00154,2024-06-16,Affiliate,United States,Individual
+CUST-00155,2024-11-15,Organic SEO,Canada,Individual
+CUST-00156,2026-01-02,Paid Search,United Kingdom,SMB
+CUST-00157,2024-09-05,Paid Search,Germany,SMB
+CUST-00158,2025-09-06,Email Referral,Germany,Individual
+CUST-00159,2024-02-12,Paid Search,United States,Individual
+CUST-00160,2025-06-02,Social Ads,United States,Individual
+CUST-00161,2025-05-16,Paid Search,Australia,Individual
+CUST-00162,2026-04-28,Organic SEO,United States,Individual
+CUST-00163,2025-06-18,Affiliate,United States,SMB
+CUST-00164,2025-07-05,Social Ads,United Kingdom,SMB
+CUST-00165,2025-08-29,Paid Search,Canada,SMB
+CUST-00166,2024-03-29,Paid Search,United Kingdom,SMB
+CUST-00167,2025-08-06,Social Ads,United States,Individual
+CUST-00168,2026-05-21,Paid Search,United Kingdom,Individual
+CUST-00169,2024-09-21,Paid Search,Canada,SMB
+CUST-00170,2024-10-09,Organic SEO,United Kingdom,Individual
+CUST-00171,2024-09-04,Social Ads,United Kingdom,SMB
+CUST-00172,2025-12-08,Organic SEO,Germany,Individual
+CUST-00173,2024-01-18,Paid Search,United States,Individual
+CUST-00174,2024-11-09,Social Ads,United States,Individual
+CUST-00175,2024-12-18,Organic SEO,Germany,Individual
+CUST-00176,2025-12-20,Organic SEO,United States,Individual
+CUST-00177,2026-01-08,Paid Search,United States,Individual
+CUST-00178,2026-02-19,Social Ads,United States,SMB
+CUST-00179,2024-10-10,Social Ads,Australia,Individual
+CUST-00180,2024-10-16,Affiliate,Canada,Individual
+CUST-00181,2025-01-04,Paid Search,United States,Individual
+CUST-00182,2024-10-07,Paid Search,United States,Individual
+CUST-00183,2024-05-09,Social Ads,Germany,Individual
+CUST-00184,2024-01-13,Organic SEO,United Kingdom,Individual
+CUST-00185,2024-07-07,Affiliate,United States,SMB
+CUST-00186,2024-04-26,Email Referral,United States,Individual
+CUST-00187,2025-10-06,Social Ads,United States,SMB
+CUST-00188,2024-11-07,Paid Search,United States,Individual
+CUST-00189,2025-03-02,Social Ads,Germany,Individual
+CUST-00190,2025-06-19,Organic SEO,Canada,Individual
+CUST-00191,2025-08-25,Affiliate,United States,Individual
+CUST-00192,2025-09-16,Affiliate,United States,SMB
+CUST-00193,2025-10-02,Paid Search,Germany,Individual
+CUST-00194,2024-06-26,Organic SEO,United States,Individual
+CUST-00195,2025-12-06,Organic SEO,United States,Individual
+CUST-00196,2025-12-24,Paid Search,Canada,Individual
+CUST-00197,2024-08-27,Affiliate,Germany,Individual
+CUST-00198,2025-11-08,Email Referral,United States,Individual
+CUST-00199,2024-08-18,Social Ads,Canada,SMB
+CUST-00200,2024-03-14,Paid Search,Germany,Individual
+CUST-00201,2026-04-24,Organic SEO,United States,Individual
+CUST-00202,2025-12-06,Paid Search,United States,Individual
+CUST-00203,2025-07-06,Organic SEO,United States,Individual
+CUST-00204,2025-03-18,Social Ads,United Kingdom,Individual
+CUST-00205,2024-08-22,Affiliate,Canada,Individual
+CUST-00206,2024-01-22,Affiliate,Germany,Individual
+CUST-00207,2024-02-11,Social Ads,United States,Individual
+CUST-00208,2025-03-28,Email Referral,United States,Individual
+CUST-00209,2025-10-12,Email Referral,Australia,Individual
+CUST-00210,2025-02-22,Paid Search,Germany,SMB
+CUST-00211,2024-12-03,Organic SEO,United Kingdom,Individual
+CUST-00212,2025-02-14,Email Referral,United Kingdom,Individual
+CUST-00213,2024-11-18,Paid Search,United States,SMB
+CUST-00214,2026-06-04,Organic SEO,Australia,Individual
+CUST-00215,2025-07-09,Organic SEO,United States,Individual
+CUST-00216,2025-09-29,Social Ads,United Kingdom,SMB
+CUST-00217,2024-07-27,Paid Search,United States,Individual
+CUST-00218,2026-06-20,Social Ads,United States,Corporate
+CUST-00219,2025-09-15,Social Ads,Germany,Individual
+CUST-00220,2024-01-15,Organic SEO,United States,Corporate
+CUST-00221,2026-07-23,Paid Search,Australia,Individual
+CUST-00222,2024-06-06,Organic SEO,Germany,Individual
+CUST-00223,2024-10-06,Organic SEO,United Kingdom,Individual
+CUST-00224,2025-04-12,Organic SEO,United States,Corporate
+CUST-00225,2025-06-04,Social Ads,United States,Individual
+CUST-00226,2026-03-02,Social Ads,United States,Corporate
+CUST-00227,2025-06-03,Paid Search,United States,SMB
+CUST-00228,2026-05-07,Organic SEO,Australia,Individual
+CUST-00229,2024-06-01,Organic SEO,United Kingdom,Individual
+CUST-00230,2026-02-20,Organic SEO,United Kingdom,Individual
+CUST-00231,2024-07-12,Affiliate,United States,Individual
+CUST-00232,2026-05-26,Social Ads,United States,SMB
+CUST-00233,2025-12-23,Email Referral,United States,Corporate
+CUST-00234,2026-03-22,Email Referral,Australia,Individual
+CUST-00235,2024-02-07,Paid Search,Australia,Individual
+CUST-00236,2024-04-12,Email Referral,United States,Individual
+CUST-00237,2025-04-12,Paid Search,United States,SMB
+CUST-00238,2024-06-07,Paid Search,Germany,Individual
+CUST-00239,2025-09-30,Social Ads,United Kingdom,SMB
+CUST-00240,2026-05-22,Social Ads,United Kingdom,Corporate
+CUST-00241,2025-10-03,Social Ads,Germany,SMB
+CUST-00242,2024-02-06,Social Ads,United States,Individual
+CUST-00243,2024-10-21,Affiliate,Germany,Individual
+CUST-00244,2024-04-10,Social Ads,Germany,Individual
+CUST-00245,2024-06-19,Social Ads,Canada,Individual
+CUST-00246,2026-03-26,Paid Search,United States,Individual
+CUST-00247,2024-09-07,Organic SEO,United Kingdom,SMB
+CUST-00248,2024-06-23,Paid Search,United Kingdom,Individual
+CUST-00249,2025-11-30,Paid Search,Canada,Individual
+CUST-00250,2025-04-17,Social Ads,United Kingdom,Individual
+CUST-00251,2026-07-09,Email Referral,Canada,Individual
+CUST-00252,2024-06-10,Paid Search,Australia,Corporate
+CUST-00253,2024-11-02,Social Ads,United States,Individual
+CUST-00254,2026-05-15,Paid Search,Australia,SMB
+CUST-00255,2024-04-19,Paid Search,United Kingdom,Individual
+CUST-00256,2025-12-17,Paid Search,Australia,Individual
+CUST-00257,2024-10-08,Paid Search,Canada,SMB
+CUST-00258,2024-02-20,Email Referral,Germany,SMB
+CUST-00259,2026-07-13,Paid Search,Germany,Individual
+CUST-00260,2024-12-26,Paid Search,United States,Individual
+CUST-00261,2026-02-12,Social Ads,Germany,SMB
+CUST-00262,2025-10-05,Paid Search,United Kingdom,Individual
+CUST-00263,2026-03-18,Organic SEO,United Kingdom,SMB
+CUST-00264,2024-04-02,Email Referral,United States,Individual
+CUST-00265,2024-07-24,Paid Search,United Kingdom,Corporate
+CUST-00266,2025-06-27,Organic SEO,United States,Individual
+CUST-00267,2026-07-24,Email Referral,United Kingdom,SMB
+CUST-00268,2026-02-03,Email Referral,Canada,Individual
+CUST-00269,2024-03-18,Paid Search,Australia,SMB
+CUST-00270,2026-01-11,Social Ads,United States,SMB
+CUST-00271,2025-07-24,Organic SEO,Germany,Individual
+CUST-00272,2025-07-03,Paid Search,United States,SMB
+CUST-00273,2024-09-25,Organic SEO,Canada,Corporate
+CUST-00274,2024-04-20,Social Ads,United Kingdom,Individual
+CUST-00275,2025-07-28,Paid Search,United Kingdom,Individual
+CUST-00276,2025-10-12,Email Referral,Canada,Individual
+CUST-00277,2025-02-22,Paid Search,United States,Individual
+CUST-00278,2025-05-19,Paid Search,United States,Individual
+CUST-00279,2025-02-01,Organic SEO,Germany,SMB
+CUST-00280,2025-07-07,Organic SEO,Germany,Individual
+CUST-00281,2025-02-28,Social Ads,Canada,Individual
+CUST-00282,2024-10-13,Paid Search,United States,Individual
+CUST-00283,2024-08-29,Email Referral,United States,Individual
+CUST-00284,2025-07-11,Email Referral,United Kingdom,Individual
+CUST-00285,2024-10-09,Paid Search,United States,SMB
+CUST-00286,2025-04-10,Paid Search,United States,Individual
+CUST-00287,2024-01-22,Paid Search,United States,Corporate
+CUST-00288,2026-03-16,Organic SEO,United States,SMB
+CUST-00289,2024-07-31,Organic SEO,Canada,Individual
+CUST-00290,2026-03-03,Paid Search,Canada,Individual
+CUST-00291,2026-05-29,Affiliate,Australia,Individual
+CUST-00292,2026-03-28,Paid Search,Germany,Individual
+CUST-00293,2024-01-16,Organic SEO,Germany,Individual
+CUST-00294,2024-01-17,Paid Search,United States,SMB
+CUST-00295,2025-06-22,Paid Search,United States,Individual
+CUST-00296,2025-01-05,Organic SEO,United States,Individual
+CUST-00297,2025-09-21,Paid Search,Germany,SMB
+CUST-00298,2025-06-17,Paid Search,United Kingdom,Individual
+CUST-00299,2025-05-05,Email Referral,United States,Individual
+CUST-00300,2025-12-30,Email Referral,United States,Individual
+CUST-00301,2025-09-14,Paid Search,United States,Individual
+CUST-00302,2025-08-22,Organic SEO,United States,Corporate
+CUST-00303,2025-06-27,Paid Search,United Kingdom,Individual
+CUST-00304,2026-03-23,Social Ads,Canada,Individual
+CUST-00305,2026-02-26,Organic SEO,Canada,Individual
+CUST-00306,2026-06-28,Paid Search,United States,Individual
+CUST-00307,2025-03-01,Social Ads,United States,Individual
+CUST-00308,2024-09-18,Organic SEO,United States,Corporate
+CUST-00309,2024-03-09,Paid Search,United States,Individual
+CUST-00310,2026-02-01,Social Ads,Canada,Individual
+CUST-00311,2025-08-23,Affiliate,United Kingdom,Individual
+CUST-00312,2025-02-24,Organic SEO,Germany,SMB
+CUST-00313,2026-06-07,Email Referral,United States,Individual
+CUST-00314,2024-11-15,Organic SEO,United Kingdom,Individual
+CUST-00315,2025-11-03,Organic SEO,Canada,Individual
+CUST-00316,2025-07-23,Organic SEO,Germany,Individual
+CUST-00317,2026-04-06,Organic SEO,United Kingdom,SMB
+CUST-00318,2025-09-28,Social Ads,United Kingdom,Individual
+CUST-00319,2025-11-04,Email Referral,United States,Individual
+CUST-00320,2025-12-20,Social Ads,Australia,Individual
+CUST-00321,2024-07-04,Email Referral,United Kingdom,Individual
+CUST-00322,2024-05-25,Social Ads,Australia,Individual
+CUST-00323,2025-06-27,Paid Search,United States,Individual
+CUST-00324,2025-01-13,Paid Search,United States,Corporate
+CUST-00325,2025-09-02,Paid Search,United States,Individual
+CUST-00326,2025-09-24,Paid Search,United States,Individual
+CUST-00327,2025-03-10,Organic SEO,United States,Individual
+CUST-00328,2026-02-12,Organic SEO,United States,Individual
+CUST-00329,2025-11-25,Social Ads,United Kingdom,Individual
+CUST-00330,2024-02-16,Paid Search,Australia,Individual
+CUST-00331,2024-07-28,Paid Search,United States,Individual
+CUST-00332,2024-09-18,Paid Search,United States,Individual
+CUST-00333,2025-03-16,Paid Search,United States,SMB
+CUST-00334,2025-05-27,Organic SEO,Germany,Individual
+CUST-00335,2025-02-10,Email Referral,United States,Individual
+CUST-00336,2026-08-01,Paid Search,United States,Individual
+CUST-00337,2025-02-18,Social Ads,United States,Individual
+CUST-00338,2024-01-22,Affiliate,United States,Corporate
+CUST-00339,2025-04-16,Email Referral,Canada,Individual
+CUST-00340,2026-05-14,Paid Search,United States,Individual
+CUST-00341,2024-03-21,Organic SEO,United States,Individual
+CUST-00342,2024-12-07,Social Ads,United States,Individual
+CUST-00343,2025-06-27,Organic SEO,Canada,Individual
+CUST-00344,2026-01-14,Affiliate,United Kingdom,Individual
+CUST-00345,2024-04-15,Paid Search,United States,Individual
+CUST-00346,2026-02-17,Social Ads,United States,Corporate
+CUST-00347,2025-10-05,Organic SEO,Germany,SMB
+CUST-00348,2025-04-04,Social Ads,Canada,Individual
+CUST-00349,2025-10-01,Paid Search,Australia,Individual
+CUST-00350,2025-03-26,Paid Search,United States,Individual
+CUST-00351,2024-10-08,Organic SEO,United States,Individual
+CUST-00352,2025-04-17,Organic SEO,United States,SMB
+CUST-00353,2024-03-19,Social Ads,Australia,Individual
+CUST-00354,2025-08-31,Organic SEO,United Kingdom,Individual
+CUST-00355,2026-03-21,Social Ads,United States,Corporate
+CUST-00356,2025-08-08,Social Ads,United States,Individual
+CUST-00357,2024-06-03,Affiliate,United Kingdom,SMB
+CUST-00358,2026-05-07,Paid Search,Germany,Individual
+CUST-00359,2024-06-25,Paid Search,Germany,Corporate
+CUST-00360,2025-06-20,Organic SEO,United States,Individual
+CUST-00361,2024-10-16,Organic SEO,Germany,Individual
+CUST-00362,2024-02-23,Social Ads,United Kingdom,Individual
+CUST-00363,2024-04-06,Organic SEO,United States,Individual
+CUST-00364,2026-05-22,Social Ads,Canada,SMB
+CUST-00365,2024-12-07,Paid Search,Germany,Corporate
+CUST-00366,2024-11-13,Affiliate,Germany,Individual
+CUST-00367,2025-09-01,Social Ads,United States,Individual
+CUST-00368,2025-10-20,Social Ads,Canada,Individual
+CUST-00369,2026-04-28,Affiliate,Australia,Corporate
+CUST-00370,2024-04-05,Social Ads,United States,Individual
+CUST-00371,2025-01-06,Paid Search,Australia,Individual
+CUST-00372,2026-02-23,Organic SEO,United States,Individual
+CUST-00373,2024-03-20,Paid Search,Germany,Individual
+CUST-00374,2025-07-06,Email Referral,Canada,Individual
+CUST-00375,2024-12-10,Email Referral,United Kingdom,Individual
+CUST-00376,2024-06-06,Paid Search,Canada,SMB
+CUST-00377,2026-04-08,Email Referral,Germany,Individual
+CUST-00378,2025-01-08,Social Ads,United States,Individual
+CUST-00379,2024-10-18,Social Ads,Germany,Individual
+CUST-00380,2024-09-01,Paid Search,Canada,Individual
+CUST-00381,2026-05-05,Paid Search,Germany,Individual
+CUST-00382,2025-03-27,Organic SEO,United States,Individual
+CUST-00383,2025-06-24,Organic SEO,United States,Individual
+CUST-00384,2025-09-11,Paid Search,United States,Individual
+CUST-00385,2026-06-14,Organic SEO,Australia,SMB
+CUST-00386,2025-06-12,Email Referral,United States,SMB
+CUST-00387,2024-10-06,Organic SEO,United Kingdom,SMB
+CUST-00388,2024-04-03,Affiliate,United States,Individual
+CUST-00389,2024-12-23,Affiliate,United States,Individual
+CUST-00390,2025-01-17,Paid Search,Australia,Individual
+CUST-00391,2024-01-29,Paid Search,United States,SMB
+CUST-00392,2024-12-09,Social Ads,United States,Individual
+CUST-00393,2026-04-29,Organic SEO,Canada,SMB
+CUST-00394,2025-04-25,Organic SEO,United States,Individual
+CUST-00395,2024-09-19,Paid Search,United States,Corporate
+CUST-00396,2025-09-15,Organic SEO,United States,Individual
+CUST-00397,2024-11-04,Paid Search,United States,Individual
+CUST-00398,2025-09-29,Organic SEO,United States,Corporate
+CUST-00399,2025-09-03,Organic SEO,United Kingdom,Individual
+CUST-00400,2026-01-05,Paid Search,United States,Individual
+CUST-00401,2024-09-03,Organic SEO,United States,Individual
+CUST-00402,2025-06-20,Affiliate,United States,Individual
+CUST-00403,2025-06-03,Social Ads,United Kingdom,Individual
+CUST-00404,2026-06-13,Organic SEO,United Kingdom,Corporate
+CUST-00405,2024-09-16,Social Ads,United States,Individual
+CUST-00406,2024-09-03,Social Ads,United Kingdom,SMB
+CUST-00407,2026-01-22,Social Ads,United States,Individual
+CUST-00408,2024-12-12,Email Referral,United States,SMB
+CUST-00409,2025-04-20,Affiliate,United Kingdom,Individual
+CUST-00410,2024-05-18,Paid Search,Germany,Individual
+CUST-00411,2024-10-27,Paid Search,Germany,SMB
+CUST-00412,2024-11-19,Affiliate,United Kingdom,Corporate
+CUST-00413,2025-07-10,Organic SEO,United States,Individual
+CUST-00414,2024-10-19,Organic SEO,Germany,SMB
+CUST-00415,2024-12-05,Paid Search,Germany,Individual
+CUST-00416,2025-02-13,Social Ads,Canada,Individual
+CUST-00417,2024-07-10,Organic SEO,United Kingdom,Corporate
+CUST-00418,2025-06-15,Paid Search,United States,Individual
+CUST-00419,2025-03-16,Social Ads,Canada,Individual
+CUST-00420,2024-11-24,Paid Search,United States,Individual
+CUST-00421,2025-04-01,Social Ads,United States,Individual
+CUST-00422,2024-12-25,Organic SEO,Germany,Corporate
+CUST-00423,2025-09-21,Affiliate,United States,Corporate
+CUST-00424,2024-02-28,Paid Search,United Kingdom,Individual
+CUST-00425,2026-03-31,Social Ads,United States,Individual
+CUST-00426,2026-05-19,Social Ads,Germany,Individual
+CUST-00427,2024-03-09,Paid Search,United Kingdom,Individual
+CUST-00428,2025-08-03,Paid Search,United States,Individual
+CUST-00429,2025-01-14,Organic SEO,Germany,Individual
+CUST-00430,2025-06-26,Organic SEO,United States,Individual
+CUST-00431,2024-04-26,Paid Search,United States,Individual
+CUST-00432,2026-07-24,Organic SEO,United States,Individual
+CUST-00433,2025-04-01,Paid Search,United Kingdom,Individual
+CUST-00434,2025-05-17,Paid Search,United States,Individual
+CUST-00435,2024-06-25,Email Referral,United States,Individual
+CUST-00436,2025-11-29,Affiliate,Australia,Individual
+CUST-00437,2025-12-27,Paid Search,United Kingdom,SMB
+CUST-00438,2026-05-21,Paid Search,Germany,SMB
+CUST-00439,2024-06-27,Social Ads,United Kingdom,Individual
+CUST-00440,2024-07-24,Social Ads,United States,Individual
+CUST-00441,2025-01-04,Organic SEO,United States,SMB
+CUST-00442,2025-07-18,Paid Search,Canada,Individual
+CUST-00443,2025-02-11,Affiliate,Germany,Individual
+CUST-00444,2026-02-26,Organic SEO,United Kingdom,Individual
+CUST-00445,2024-11-20,Social Ads,United States,Individual
+CUST-00446,2024-12-18,Paid Search,Canada,Individual
+CUST-00447,2025-08-24,Paid Search,Australia,Individual
+CUST-00448,2026-07-21,Email Referral,Canada,Individual
+CUST-00449,2024-11-07,Paid Search,United States,SMB
+CUST-00450,2024-12-20,Affiliate,United Kingdom,Individual
+CUST-00451,2024-03-21,Paid Search,United Kingdom,Individual
+CUST-00452,2024-05-08,Social Ads,United Kingdom,Individual
+CUST-00453,2025-10-18,Paid Search,Australia,Individual
+CUST-00454,2025-11-05,Social Ads,Canada,Individual
+CUST-00455,2025-07-31,Paid Search,Canada,Individual
+CUST-00456,2025-10-18,Social Ads,United States,Individual
+CUST-00457,2025-08-08,Organic SEO,United Kingdom,Individual
+CUST-00458,2025-10-04,Organic SEO,United Kingdom,Individual
+CUST-00459,2024-09-07,Email Referral,Germany,Individual
+CUST-00460,2024-03-15,Social Ads,United States,Individual
+CUST-00461,2025-04-20,Paid Search,United Kingdom,Individual
+CUST-00462,2026-01-05,Paid Search,Australia,Individual
+CUST-00463,2025-02-12,Paid Search,United States,Individual
+CUST-00464,2024-11-22,Paid Search,United States,Individual
+CUST-00465,2024-05-24,Paid Search,United States,Individual
+CUST-00466,2025-09-22,Organic SEO,Australia,Corporate
+CUST-00467,2026-04-13,Paid Search,United Kingdom,Individual
+CUST-00468,2026-02-20,Paid Search,Australia,Individual
+CUST-00469,2026-06-19,Paid Search,United States,Corporate
+CUST-00470,2025-06-01,Organic SEO,United States,Individual
+CUST-00471,2024-02-19,Paid Search,United Kingdom,SMB
+CUST-00472,2025-10-31,Social Ads,United States,Individual
+CUST-00473,2024-04-20,Organic SEO,Canada,SMB
+CUST-00474,2026-02-21,Organic SEO,United States,Individual
+CUST-00475,2025-07-29,Paid Search,United Kingdom,Individual
+CUST-00476,2025-05-31,Organic SEO,United Kingdom,SMB
+CUST-00477,2025-09-30,Social Ads,United States,Corporate
+CUST-00478,2025-02-07,Organic SEO,Australia,Individual
+CUST-00479,2025-01-09,Social Ads,United States,Individual
+CUST-00480,2025-05-27,Paid Search,United States,SMB
+CUST-00481,2026-04-03,Organic SEO,United Kingdom,Individual
+CUST-00482,2025-06-11,Paid Search,Australia,Individual
+CUST-00483,2025-02-06,Affiliate,Germany,Individual
+CUST-00484,2024-12-10,Organic SEO,United Kingdom,Individual
+CUST-00485,2025-07-30,Paid Search,Canada,Individual
+CUST-00486,2025-11-20,Paid Search,United States,Individual
+CUST-00487,2026-07-09,Social Ads,Germany,Individual
+CUST-00488,2025-04-30,Paid Search,Germany,Corporate
+CUST-00489,2025-08-15,Organic SEO,Germany,Individual
+CUST-00490,2024-06-23,Organic SEO,Germany,SMB
+CUST-00491,2025-01-24,Paid Search,Germany,Individual
+CUST-00492,2025-12-18,Paid Search,United States,Individual
+CUST-00493,2024-06-04,Organic SEO,United States,Individual
+CUST-00494,2025-09-18,Affiliate,Canada,SMB
+CUST-00495,2024-03-04,Social Ads,United Kingdom,Individual
+CUST-00496,2025-11-09,Organic SEO,United States,Corporate
+CUST-00497,2025-04-15,Email Referral,United States,Individual
+CUST-00498,2026-03-01,Email Referral,Germany,SMB
+CUST-00499,2024-09-27,Social Ads,United States,Individual
+CUST-00500,2025-07-25,Paid Search,Australia,Corporate
+CUST-00501,2026-02-28,Paid Search,United States,SMB
+CUST-00502,2024-11-20,Organic SEO,United Kingdom,Corporate
+CUST-00503,2026-01-08,Paid Search,United States,Individual
+CUST-00504,2025-01-23,Email Referral,United States,Individual
+CUST-00505,2026-03-02,Email Referral,United States,Individual
+CUST-00506,2026-01-01,Paid Search,Australia,Individual
+CUST-00507,2026-02-04,Organic SEO,United States,Individual
+CUST-00508,2025-07-29,Social Ads,United States,Individual
+CUST-00509,2025-08-23,Paid Search,United States,Corporate
+CUST-00510,2024-08-19,Social Ads,United States,Individual
+CUST-00511,2026-01-04,Organic SEO,Germany,Individual
+CUST-00512,2025-07-17,Affiliate,United States,Individual
+CUST-00513,2026-06-20,Email Referral,United Kingdom,Individual
+CUST-00514,2024-10-21,Paid Search,United Kingdom,Corporate
+CUST-00515,2024-04-01,Social Ads,United States,SMB
+CUST-00516,2026-05-20,Affiliate,Canada,Individual
+CUST-00517,2026-06-22,Email Referral,Australia,Individual
+CUST-00518,2026-05-06,Organic SEO,United Kingdom,Corporate
+CUST-00519,2026-06-12,Affiliate,Canada,Individual
+CUST-00520,2025-08-04,Social Ads,Australia,Individual
+CUST-00521,2025-04-10,Affiliate,United Kingdom,Individual
+CUST-00522,2024-05-17,Email Referral,United Kingdom,Individual
+CUST-00523,2024-04-25,Paid Search,Germany,Individual
+CUST-00524,2026-01-05,Paid Search,Germany,SMB
+CUST-00525,2025-08-04,Social Ads,United States,Individual
+CUST-00526,2025-10-16,Email Referral,Canada,Individual
+CUST-00527,2024-03-29,Organic SEO,United States,Corporate
+CUST-00528,2025-05-03,Paid Search,United States,Individual
+CUST-00529,2024-08-29,Organic SEO,United States,Individual
+CUST-00530,2025-08-19,Social Ads,United States,Individual
+CUST-00531,2025-12-10,Paid Search,Germany,Individual
+CUST-00532,2024-06-12,Organic SEO,United Kingdom,SMB
+CUST-00533,2025-12-21,Social Ads,Germany,Individual
+CUST-00534,2024-10-29,Organic SEO,United States,Corporate
+CUST-00535,2025-05-04,Paid Search,Germany,Individual
+CUST-00536,2025-03-01,Social Ads,Canada,SMB
+CUST-00537,2026-04-01,Social Ads,United States,Individual
+CUST-00538,2026-02-11,Organic SEO,Germany,Individual
+CUST-00539,2025-06-24,Social Ads,United States,Individual
+CUST-00540,2024-03-04,Email Referral,Canada,Individual
+CUST-00541,2025-07-03,Paid Search,United States,Individual
+CUST-00542,2024-04-29,Social Ads,Germany,Individual
+CUST-00543,2026-07-09,Organic SEO,Canada,Individual
+CUST-00544,2025-06-09,Organic SEO,United Kingdom,Individual
+CUST-00545,2025-11-19,Email Referral,Germany,Individual
+CUST-00546,2026-04-16,Paid Search,United States,Individual
+CUST-00547,2025-03-09,Paid Search,United States,Corporate
+CUST-00548,2026-07-04,Paid Search,Australia,Individual
+CUST-00549,2025-02-22,Paid Search,United States,Individual
+CUST-00550,2026-01-16,Social Ads,United States,Corporate
+CUST-00551,2025-01-26,Organic SEO,Canada,Individual
+CUST-00552,2024-03-23,Social Ads,Germany,Individual
+CUST-00553,2025-10-31,Email Referral,United States,Corporate
+CUST-00554,2025-02-06,Organic SEO,Germany,Individual
+CUST-00555,2024-01-04,Social Ads,Australia,Individual
+CUST-00556,2026-01-06,Organic SEO,United Kingdom,SMB
+CUST-00557,2024-09-10,Organic SEO,United States,Individual
+CUST-00558,2026-06-15,Social Ads,United States,SMB
+CUST-00559,2025-03-05,Social Ads,Australia,SMB
+CUST-00560,2024-09-03,Paid Search,United States,Individual
+CUST-00561,2025-09-04,Social Ads,Canada,Individual
+CUST-00562,2024-02-15,Organic SEO,United States,Individual
+CUST-00563,2026-06-03,Social Ads,United States,Corporate
+CUST-00564,2024-08-27,Email Referral,Germany,Individual
+CUST-00565,2025-09-04,Social Ads,Canada,Individual
+CUST-00566,2026-06-16,Paid Search,Germany,Individual
+CUST-00567,2024-11-03,Paid Search,United Kingdom,Individual
+CUST-00568,2026-01-22,Email Referral,United Kingdom,Individual
+CUST-00569,2025-05-22,Paid Search,United States,Individual
+CUST-00570,2025-01-25,Social Ads,United States,Individual
+CUST-00571,2024-06-01,Paid Search,United States,Individual
+CUST-00572,2024-09-03,Email Referral,United States,SMB
+CUST-00573,2026-04-05,Organic SEO,United States,Individual
+CUST-00574,2025-03-02,Organic SEO,United States,Individual
+CUST-00575,2024-07-27,Paid Search,United States,Individual
+CUST-00576,2025-01-14,Paid Search,Germany,Individual
+CUST-00577,2024-10-01,Organic SEO,United Kingdom,Individual
+CUST-00578,2024-03-15,Paid Search,Germany,SMB
+CUST-00579,2025-07-26,Paid Search,United States,Corporate
+CUST-00580,2024-11-06,Affiliate,United States,Corporate
+CUST-00581,2026-01-29,Paid Search,Australia,Individual
+CUST-00582,2024-09-05,Social Ads,Germany,Individual
+CUST-00583,2024-09-02,Organic SEO,Germany,Individual
+CUST-00584,2025-06-30,Social Ads,United States,Individual
+CUST-00585,2026-06-22,Organic SEO,United States,Corporate
+CUST-00586,2025-04-25,Social Ads,United States,Individual
+CUST-00587,2024-11-16,Organic SEO,United Kingdom,Individual
+CUST-00588,2024-05-29,Paid Search,United Kingdom,Individual
+CUST-00589,2026-01-07,Organic SEO,United States,Individual
+CUST-00590,2025-01-23,Organic SEO,United States,Individual
+CUST-00591,2025-12-02,Paid Search,Germany,Individual
+CUST-00592,2026-01-10,Social Ads,United Kingdom,Individual
+CUST-00593,2026-03-25,Organic SEO,United States,Individual
+CUST-00594,2024-07-07,Email Referral,United Kingdom,Individual
+CUST-00595,2024-03-01,Organic SEO,Canada,Individual
+CUST-00596,2026-04-17,Social Ads,Germany,Individual
+CUST-00597,2026-05-12,Social Ads,United States,Individual
+CUST-00598,2024-08-11,Organic SEO,United States,Individual
+CUST-00599,2025-11-13,Affiliate,Canada,Individual
+CUST-00600,2024-01-17,Paid Search,United Kingdom,Individual
+CUST-00601,2025-06-26,Social Ads,United Kingdom,Individual
+CUST-00602,2025-05-29,Email Referral,Germany,SMB
+CUST-00603,2026-07-20,Paid Search,Canada,Individual
+CUST-00604,2024-09-03,Paid Search,United Kingdom,SMB
+CUST-00605,2024-09-30,Social Ads,United States,Corporate
+CUST-00606,2025-04-15,Organic SEO,Australia,Individual
+CUST-00607,2025-12-01,Email Referral,United States,Corporate
+CUST-00608,2025-10-27,Social Ads,United States,Individual
+CUST-00609,2025-07-19,Organic SEO,United Kingdom,SMB
+CUST-00610,2024-03-25,Organic SEO,United States,SMB
+CUST-00611,2025-08-02,Affiliate,Australia,SMB
+CUST-00612,2026-07-30,Paid Search,United States,SMB
+CUST-00613,2026-06-27,Organic SEO,United States,Corporate
+CUST-00614,2025-12-01,Affiliate,Canada,Individual
+CUST-00615,2024-02-03,Paid Search,Canada,Individual
+CUST-00616,2024-07-31,Organic SEO,Germany,SMB
+CUST-00617,2025-02-11,Affiliate,United States,Individual
+CUST-00618,2025-08-03,Email Referral,United States,SMB
+CUST-00619,2024-12-05,Organic SEO,Germany,SMB
+CUST-00620,2025-12-06,Social Ads,United Kingdom,Corporate
+CUST-00621,2024-02-24,Paid Search,United States,Individual
+CUST-00622,2025-09-11,Social Ads,Australia,Individual
+CUST-00623,2026-03-03,Paid Search,United Kingdom,SMB
+CUST-00624,2025-04-06,Organic SEO,United States,Corporate
+CUST-00625,2025-03-18,Paid Search,United Kingdom,Individual
+CUST-00626,2026-03-01,Social Ads,Germany,SMB
+CUST-00627,2024-03-25,Paid Search,United States,SMB
+CUST-00628,2024-06-06,Social Ads,United States,Individual
+CUST-00629,2024-01-06,Affiliate,United States,SMB
+CUST-00630,2024-04-14,Paid Search,United States,Individual
+CUST-00631,2025-07-22,Organic SEO,United States,Individual
+CUST-00632,2025-07-21,Paid Search,United Kingdom,Individual
+CUST-00633,2025-01-29,Paid Search,United States,SMB
+CUST-00634,2026-01-12,Email Referral,Canada,Corporate
+CUST-00635,2025-08-08,Organic SEO,Germany,Individual
+CUST-00636,2024-10-02,Paid Search,United Kingdom,Individual
+CUST-00637,2025-03-21,Paid Search,United States,SMB
+CUST-00638,2025-01-04,Paid Search,United States,Individual
+CUST-00639,2025-08-31,Social Ads,United Kingdom,Individual
+CUST-00640,2024-01-07,Affiliate,United States,Individual
+CUST-00641,2026-04-03,Email Referral,United States,Individual
+CUST-00642,2026-04-23,Email Referral,Australia,Individual
+CUST-00643,2024-11-24,Social Ads,Germany,Individual
+CUST-00644,2024-06-30,Affiliate,Australia,Individual
+CUST-00645,2025-12-12,Social Ads,Australia,SMB
+CUST-00646,2024-11-29,Organic SEO,Canada,Individual
+CUST-00647,2024-04-26,Affiliate,United States,Corporate
+CUST-00648,2024-07-03,Social Ads,United Kingdom,Corporate
+CUST-00649,2025-04-17,Affiliate,United States,SMB
+CUST-00650,2026-05-01,Social Ads,Canada,SMB
+CUST-00651,2025-02-22,Social Ads,United States,Individual
+CUST-00652,2024-09-15,Social Ads,Germany,SMB
+CUST-00653,2024-03-16,Organic SEO,United Kingdom,Individual
+CUST-00654,2025-07-01,Organic SEO,Australia,Individual
+CUST-00655,2025-07-10,Paid Search,Australia,SMB
+CUST-00656,2026-04-11,Organic SEO,United Kingdom,Individual
+CUST-00657,2026-02-26,Paid Search,Germany,Individual
+CUST-00658,2025-09-19,Paid Search,Australia,Individual
+CUST-00659,2025-02-13,Affiliate,United States,SMB
+CUST-00660,2024-04-18,Paid Search,United States,Individual
+CUST-00661,2025-06-15,Organic SEO,Germany,Individual
+CUST-00662,2025-01-18,Organic SEO,Germany,Individual
+CUST-00663,2025-05-27,Paid Search,Australia,Individual
+CUST-00664,2024-10-29,Organic SEO,Australia,Individual
+CUST-00665,2026-01-17,Paid Search,United States,Individual
+CUST-00666,2024-07-30,Organic SEO,United States,Individual
+CUST-00667,2026-01-09,Social Ads,United States,Individual
+CUST-00668,2026-04-09,Social Ads,United States,Individual
+CUST-00669,2024-04-21,Social Ads,United States,Corporate
+CUST-00670,2024-09-06,Organic SEO,United Kingdom,Individual
+CUST-00671,2025-03-12,Affiliate,United States,Individual
+CUST-00672,2024-07-07,Paid Search,Germany,Individual
+CUST-00673,2026-01-25,Social Ads,United States,Individual
+CUST-00674,2025-02-02,Paid Search,United States,Individual
+CUST-00675,2025-12-21,Email Referral,United States,Individual
+CUST-00676,2026-06-11,Organic SEO,United States,Individual
+CUST-00677,2024-04-26,Paid Search,Canada,Individual
+CUST-00678,2025-10-16,Paid Search,United States,Individual
+CUST-00679,2024-04-26,Paid Search,Canada,Individual
+CUST-00680,2026-04-13,Social Ads,Canada,Corporate
+CUST-00681,2025-08-27,Paid Search,United States,Individual
+CUST-00682,2024-11-08,Paid Search,United States,Individual
+CUST-00683,2025-02-01,Organic SEO,United States,Individual
+CUST-00684,2024-07-09,Organic SEO,United Kingdom,Corporate
+CUST-00685,2024-06-26,Organic SEO,United Kingdom,Individual
+CUST-00686,2024-11-18,Email Referral,United Kingdom,SMB
+CUST-00687,2024-01-10,Organic SEO,United States,Individual
+CUST-00688,2025-07-29,Organic SEO,United Kingdom,Individual
+CUST-00689,2025-03-01,Social Ads,United States,Individual
+CUST-00690,2025-08-01,Paid Search,Germany,Individual
+CUST-00691,2024-10-08,Paid Search,United States,SMB
+CUST-00692,2025-08-02,Social Ads,Germany,Individual
+CUST-00693,2024-04-25,Organic SEO,United States,Individual
+CUST-00694,2025-01-10,Organic SEO,Germany,SMB
+CUST-00695,2025-03-27,Organic SEO,Australia,Individual
+CUST-00696,2026-04-29,Social Ads,United States,SMB
+CUST-00697,2024-02-03,Organic SEO,United States,SMB
+CUST-00698,2025-03-25,Email Referral,United States,SMB
+CUST-00699,2024-08-02,Email Referral,United Kingdom,Individual
+CUST-00700,2025-12-28,Social Ads,United States,Individual
+CUST-00701,2026-03-14,Paid Search,United States,Individual
+CUST-00702,2024-12-25,Organic SEO,United Kingdom,Individual
+CUST-00703,2025-12-21,Paid Search,United Kingdom,Corporate
+CUST-00704,2025-06-10,Affiliate,Germany,Individual
+CUST-00705,2026-02-07,Social Ads,Canada,Corporate
+CUST-00706,2026-06-06,Social Ads,Germany,Individual
+CUST-00707,2024-05-29,Social Ads,Canada,SMB
+CUST-00708,2025-11-23,Organic SEO,United States,Individual
+CUST-00709,2025-10-04,Organic SEO,United Kingdom,Individual
+CUST-00710,2026-06-20,Social Ads,United States,SMB
+CUST-00711,2025-12-12,Affiliate,United States,Corporate
+CUST-00712,2024-12-01,Organic SEO,Canada,SMB
+CUST-00713,2024-04-05,Social Ads,United Kingdom,Individual
+CUST-00714,2025-01-01,Email Referral,Germany,Individual
+CUST-00715,2025-03-15,Email Referral,United Kingdom,Individual
+CUST-00716,2024-10-17,Paid Search,United Kingdom,Individual
+CUST-00717,2025-05-11,Social Ads,Canada,SMB
+CUST-00718,2024-02-17,Paid Search,Germany,Individual
+CUST-00719,2024-05-07,Affiliate,United States,Individual
+CUST-00720,2025-03-14,Paid Search,Germany,Individual
+CUST-00721,2025-10-27,Paid Search,Canada,SMB
+CUST-00722,2024-04-05,Social Ads,United States,Individual
+CUST-00723,2026-07-14,Social Ads,United States,Individual
+CUST-00724,2026-01-13,Social Ads,United States,Individual
+CUST-00725,2025-12-21,Paid Search,United States,Individual
+CUST-00726,2025-08-30,Paid Search,Germany,Individual
+CUST-00727,2025-12-13,Paid Search,United States,SMB
+CUST-00728,2025-12-11,Paid Search,United States,Individual
+CUST-00729,2026-01-18,Email Referral,United States,Individual
+CUST-00730,2024-11-02,Paid Search,Germany,SMB
+CUST-00731,2024-05-16,Social Ads,Germany,Individual
+CUST-00732,2025-07-30,Paid Search,Germany,Individual
+CUST-00733,2026-01-09,Paid Search,Germany,Corporate
+CUST-00734,2025-09-22,Social Ads,Canada,Individual
+CUST-00735,2024-04-12,Paid Search,United States,SMB
+CUST-00736,2024-12-25,Affiliate,United States,Individual
+CUST-00737,2024-10-10,Social Ads,United States,Individual
+CUST-00738,2026-01-08,Social Ads,Germany,Individual
+CUST-00739,2026-05-18,Email Referral,Canada,Individual
+CUST-00740,2025-09-13,Organic SEO,Germany,Individual
+CUST-00741,2024-02-25,Social Ads,Germany,Individual
+CUST-00742,2025-01-30,Paid Search,United Kingdom,Individual
+CUST-00743,2025-06-24,Email Referral,United States,Individual
+CUST-00744,2024-11-20,Paid Search,Canada,Individual
+CUST-00745,2025-01-09,Organic SEO,United States,Individual
+CUST-00746,2026-02-27,Paid Search,United Kingdom,Individual
+CUST-00747,2024-08-08,Paid Search,United States,SMB
+CUST-00748,2025-06-02,Paid Search,Germany,SMB
+CUST-00749,2025-03-09,Social Ads,United States,Individual
+CUST-00750,2025-09-22,Paid Search,United States,Individual
+CUST-00751,2026-08-01,Paid Search,Canada,Individual
+CUST-00752,2025-02-04,Organic SEO,Germany,Individual
+CUST-00753,2025-10-20,Paid Search,Germany,SMB
+CUST-00754,2026-05-16,Paid Search,United States,Corporate
+CUST-00755,2024-04-28,Organic SEO,United Kingdom,Individual
+CUST-00756,2026-01-29,Social Ads,United States,Individual
+CUST-00757,2024-05-20,Social Ads,United States,Corporate
+CUST-00758,2025-06-19,Organic SEO,Canada,Individual
+CUST-00759,2025-01-15,Paid Search,Germany,Individual
+CUST-00760,2026-06-26,Paid Search,Canada,Individual
+CUST-00761,2025-03-15,Paid Search,United States,SMB
+CUST-00762,2025-08-13,Social Ads,United Kingdom,Individual
+CUST-00763,2024-02-26,Organic SEO,United Kingdom,Individual
+CUST-00764,2024-09-18,Social Ads,Canada,Individual
+CUST-00765,2024-04-28,Paid Search,United Kingdom,Individual
+CUST-00766,2026-06-02,Paid Search,United States,Individual
+CUST-00767,2026-07-31,Paid Search,Australia,SMB
+CUST-00768,2025-07-20,Email Referral,Germany,Individual
+CUST-00769,2024-08-17,Paid Search,United States,SMB
+CUST-00770,2024-10-04,Email Referral,United Kingdom,Individual
+CUST-00771,2025-11-20,Email Referral,United States,SMB
+CUST-00772,2024-02-17,Affiliate,United States,Individual
+CUST-00773,2024-10-16,Social Ads,United States,Individual
+CUST-00774,2025-04-12,Paid Search,United States,Individual
+CUST-00775,2024-11-07,Social Ads,United States,Individual
+CUST-00776,2025-05-20,Affiliate,Germany,SMB
+CUST-00777,2025-07-13,Social Ads,United States,Individual
+CUST-00778,2025-02-23,Paid Search,United Kingdom,Individual
+CUST-00779,2025-12-11,Email Referral,Australia,Individual
+CUST-00780,2025-11-04,Organic SEO,Germany,Individual
+CUST-00781,2024-07-29,Organic SEO,United States,Individual
+CUST-00782,2024-03-02,Affiliate,United States,Individual
+CUST-00783,2024-02-14,Affiliate,Canada,Individual
+CUST-00784,2025-12-18,Email Referral,United Kingdom,SMB
+CUST-00785,2025-08-17,Paid Search,United States,SMB
+CUST-00786,2024-03-17,Organic SEO,United States,Individual
+CUST-00787,2024-05-13,Paid Search,United States,Individual
+CUST-00788,2026-03-31,Organic SEO,Canada,Individual
+CUST-00789,2025-04-08,Paid Search,United States,Individual
+CUST-00790,2026-03-09,Social Ads,United States,Individual
+CUST-00791,2025-04-05,Organic SEO,United States,Individual
+CUST-00792,2026-02-27,Paid Search,United States,Individual
+CUST-00793,2024-05-02,Paid Search,Canada,Individual
+CUST-00794,2025-12-22,Social Ads,United States,SMB
+CUST-00795,2024-12-01,Paid Search,Germany,Corporate
+CUST-00796,2025-02-09,Organic SEO,Germany,Individual
+CUST-00797,2024-06-27,Paid Search,United States,Individual
+CUST-00798,2026-02-05,Organic SEO,United States,Individual
+CUST-00799,2026-03-23,Paid Search,United States,SMB
+CUST-00800,2024-08-15,Paid Search,Canada,Individual
+CUST-00801,2025-10-07,Affiliate,United States,Individual
+CUST-00802,2026-07-28,Email Referral,United States,Individual
+CUST-00803,2026-07-13,Social Ads,Canada,Individual
+CUST-00804,2026-05-17,Email Referral,United States,Individual
+CUST-00805,2025-04-17,Paid Search,Australia,Individual
+CUST-00806,2026-01-11,Organic SEO,United States,Individual
+CUST-00807,2024-06-25,Organic SEO,Canada,Individual
+CUST-00808,2025-04-01,Email Referral,United States,Individual
+CUST-00809,2024-09-08,Social Ads,United Kingdom,SMB
+CUST-00810,2025-05-05,Paid Search,United States,Individual
+CUST-00811,2024-07-23,Social Ads,Germany,Individual
+CUST-00812,2026-04-01,Organic SEO,United States,Individual
+CUST-00813,2025-12-31,Organic SEO,United Kingdom,Individual
+CUST-00814,2026-07-23,Organic SEO,United States,Individual
+CUST-00815,2024-01-27,Paid Search,United States,SMB
+CUST-00816,2026-03-08,Paid Search,Canada,Individual
+CUST-00817,2025-01-01,Social Ads,Australia,Corporate
+CUST-00818,2024-04-12,Paid Search,United States,Individual
+CUST-00819,2026-03-21,Email Referral,United States,Corporate
+CUST-00820,2024-08-12,Organic SEO,Australia,Individual
+CUST-00821,2026-05-09,Affiliate,United States,Individual
+CUST-00822,2024-11-21,Email Referral,Germany,Corporate
+CUST-00823,2024-01-29,Social Ads,United States,Individual
+CUST-00824,2024-05-25,Organic SEO,United States,Corporate
+CUST-00825,2026-06-21,Affiliate,United Kingdom,Individual
+CUST-00826,2024-02-08,Paid Search,United States,Individual
+CUST-00827,2025-06-23,Organic SEO,United States,Individual
+CUST-00828,2026-04-05,Paid Search,Germany,Corporate
+CUST-00829,2026-05-14,Email Referral,United States,Individual
+CUST-00830,2025-12-22,Email Referral,Germany,SMB
+CUST-00831,2026-05-31,Organic SEO,United States,SMB
+CUST-00832,2025-11-09,Organic SEO,United States,Individual
+CUST-00833,2024-05-19,Affiliate,Germany,Individual
+CUST-00834,2025-10-16,Affiliate,United Kingdom,Individual
+CUST-00835,2025-07-29,Social Ads,Australia,SMB
+CUST-00836,2024-08-16,Social Ads,Canada,Individual
+CUST-00837,2026-01-21,Social Ads,United States,SMB
+CUST-00838,2025-12-19,Affiliate,United States,Corporate
+CUST-00839,2025-08-04,Paid Search,United Kingdom,Corporate
+CUST-00840,2025-09-18,Paid Search,United Kingdom,Corporate
+CUST-00841,2024-05-24,Paid Search,United States,Individual
+CUST-00842,2024-11-23,Paid Search,Canada,Individual
+CUST-00843,2025-12-26,Social Ads,Germany,Individual
+CUST-00844,2024-01-12,Paid Search,United States,Individual
+CUST-00845,2024-09-19,Social Ads,Germany,Individual
+CUST-00846,2025-03-24,Social Ads,Australia,SMB
+CUST-00847,2025-05-19,Email Referral,United States,Individual
+CUST-00848,2026-04-28,Organic SEO,Canada,Individual
+CUST-00849,2025-12-04,Paid Search,United Kingdom,SMB
+CUST-00850,2024-02-04,Paid Search,United States,Corporate
+CUST-00851,2024-03-16,Paid Search,Canada,Individual
+CUST-00852,2024-03-17,Organic SEO,Canada,Individual
+CUST-00853,2025-08-31,Affiliate,Canada,SMB
+CUST-00854,2025-03-17,Affiliate,United States,SMB
+CUST-00855,2024-06-09,Paid Search,United States,Corporate
+CUST-00856,2025-02-23,Social Ads,Germany,SMB
+CUST-00857,2024-09-28,Social Ads,United States,Individual
+CUST-00858,2025-02-06,Organic SEO,Canada,Individual
+CUST-00859,2025-01-04,Paid Search,United States,SMB
+CUST-00860,2025-10-02,Social Ads,United States,Individual
+CUST-00861,2024-06-23,Social Ads,Australia,Individual
+CUST-00862,2024-04-28,Paid Search,United States,Individual
+CUST-00863,2025-11-07,Paid Search,United Kingdom,Individual
+CUST-00864,2025-01-14,Email Referral,United States,Individual
+CUST-00865,2024-09-26,Organic SEO,United States,SMB
+CUST-00866,2025-07-31,Paid Search,Germany,Individual
+CUST-00867,2024-03-28,Social Ads,Canada,Individual
+CUST-00868,2026-02-13,Organic SEO,United Kingdom,SMB
+CUST-00869,2026-04-18,Organic SEO,Australia,Individual
+CUST-00870,2025-05-01,Organic SEO,United States,Individual
+CUST-00871,2025-02-08,Email Referral,Germany,Individual
+CUST-00872,2026-07-11,Organic SEO,United Kingdom,Corporate
+CUST-00873,2024-05-30,Paid Search,Germany,Individual
+CUST-00874,2024-06-20,Affiliate,Canada,Individual
+CUST-00875,2025-03-09,Paid Search,Germany,Individual
+CUST-00876,2026-04-22,Social Ads,Canada,Individual
+CUST-00877,2026-07-21,Social Ads,Canada,Individual
+CUST-00878,2025-07-23,Organic SEO,United States,Individual
+CUST-00879,2025-04-14,Email Referral,United States,SMB
+CUST-00880,2025-08-24,Organic SEO,United States,Individual
+CUST-00881,2024-05-31,Organic SEO,United Kingdom,Corporate
+CUST-00882,2024-04-12,Affiliate,United Kingdom,Individual
+CUST-00883,2024-10-19,Email Referral,Canada,SMB
+CUST-00884,2024-09-27,Organic SEO,United Kingdom,Individual
+CUST-00885,2024-02-08,Paid Search,United States,Individual
+CUST-00886,2025-11-28,Social Ads,United States,SMB
+CUST-00887,2024-12-05,Social Ads,United States,Individual
+CUST-00888,2024-10-02,Email Referral,United States,SMB
+CUST-00889,2024-11-06,Paid Search,Canada,SMB
+CUST-00890,2025-12-02,Paid Search,Canada,Individual
+CUST-00891,2026-01-31,Organic SEO,Canada,Individual
+CUST-00892,2025-03-02,Social Ads,United States,Individual
+CUST-00893,2026-07-24,Email Referral,Germany,SMB
+CUST-00894,2026-06-07,Organic SEO,United States,SMB
+CUST-00895,2024-03-08,Paid Search,United Kingdom,Individual
+CUST-00896,2026-05-21,Organic SEO,United Kingdom,Individual
+CUST-00897,2026-06-15,Email Referral,Canada,Individual
+CUST-00898,2025-04-12,Paid Search,United States,Individual
+CUST-00899,2025-01-12,Email Referral,United Kingdom,Individual
+CUST-00900,2024-05-06,Social Ads,United States,Individual
+CUST-00901,2025-04-01,Paid Search,Canada,Individual
+CUST-00902,2024-12-24,Paid Search,Canada,Individual
+CUST-00903,2026-04-30,Social Ads,United States,Individual
+CUST-00904,2024-06-15,Email Referral,Germany,Individual
+CUST-00905,2024-08-14,Social Ads,Germany,Individual
+CUST-00906,2025-02-23,Organic SEO,Canada,Corporate
+CUST-00907,2025-11-29,Paid Search,Canada,Individual
+CUST-00908,2025-09-07,Email Referral,United States,Individual
+CUST-00909,2024-11-08,Social Ads,Germany,Individual
+CUST-00910,2026-07-05,Organic SEO,United States,Individual
+CUST-00911,2025-04-22,Paid Search,United Kingdom,Individual
+CUST-00912,2025-08-21,Paid Search,United Kingdom,Individual
+CUST-00913,2026-05-13,Email Referral,United Kingdom,Individual
+CUST-00914,2024-10-16,Paid Search,United States,Individual
+CUST-00915,2024-10-10,Social Ads,Canada,Individual
+CUST-00916,2025-12-29,Affiliate,Germany,Individual
+CUST-00917,2025-06-13,Social Ads,Canada,SMB
+CUST-00918,2026-04-01,Email Referral,United States,Individual
+CUST-00919,2024-05-23,Social Ads,Germany,Corporate
+CUST-00920,2024-09-22,Email Referral,United States,SMB
+CUST-00921,2025-08-20,Social Ads,United Kingdom,Individual
+CUST-00922,2026-01-13,Social Ads,Germany,Individual
+CUST-00923,2025-05-02,Email Referral,Germany,Individual
+CUST-00924,2026-05-15,Paid Search,Germany,Individual
+CUST-00925,2024-10-27,Paid Search,United States,Individual
+CUST-00926,2026-04-07,Organic SEO,Canada,Corporate
+CUST-00927,2026-07-10,Paid Search,United States,Individual
+CUST-00928,2026-02-01,Email Referral,United States,SMB
+CUST-00929,2025-01-15,Paid Search,United States,SMB
+CUST-00930,2025-04-26,Paid Search,United Kingdom,Individual
+CUST-00931,2025-09-27,Paid Search,Canada,Individual
+CUST-00932,2026-06-07,Social Ads,United Kingdom,Individual
+CUST-00933,2026-06-10,Email Referral,United States,Individual
+CUST-00934,2025-02-23,Affiliate,Canada,Corporate
+CUST-00935,2024-05-26,Paid Search,Germany,SMB
+CUST-00936,2025-05-14,Paid Search,Australia,Individual
+CUST-00937,2024-02-29,Paid Search,United States,SMB
+CUST-00938,2024-06-21,Organic SEO,United States,SMB
+CUST-00939,2026-03-09,Paid Search,United Kingdom,Individual
+CUST-00940,2025-02-17,Organic SEO,United Kingdom,Individual
+CUST-00941,2025-06-30,Paid Search,United States,Individual
+CUST-00942,2024-11-25,Social Ads,United Kingdom,Individual
+CUST-00943,2024-01-05,Social Ads,United States,Individual
+CUST-00944,2024-12-18,Paid Search,United States,Individual
+CUST-00945,2024-11-09,Paid Search,Canada,Individual
+CUST-00946,2024-10-24,Organic SEO,United Kingdom,Individual
+CUST-00947,2025-03-20,Email Referral,Australia,Individual
+CUST-00948,2026-07-12,Organic SEO,Germany,Individual
+CUST-00949,2026-07-17,Email Referral,United States,Individual
+CUST-00950,2026-01-14,Affiliate,United States,Individual
+CUST-00951,2025-05-31,Paid Search,United States,Individual
+CUST-00952,2024-02-08,Organic SEO,United Kingdom,SMB
+CUST-00953,2025-09-30,Paid Search,Australia,Individual
+CUST-00954,2025-10-31,Email Referral,United States,Individual
+CUST-00955,2025-03-30,Organic SEO,United Kingdom,Individual
+CUST-00956,2024-06-05,Paid Search,Germany,Individual
+CUST-00957,2025-03-06,Social Ads,Germany,Individual
+CUST-00958,2025-09-12,Social Ads,United States,SMB
+CUST-00959,2025-06-07,Social Ads,United States,Individual
+CUST-00960,2024-04-18,Organic SEO,United Kingdom,SMB
+CUST-00961,2026-05-01,Organic SEO,United States,SMB
+CUST-00962,2024-10-29,Paid Search,United Kingdom,Corporate
+CUST-00963,2025-12-05,Affiliate,United States,Individual
+CUST-00964,2025-11-18,Paid Search,United States,Individual
+CUST-00965,2025-05-20,Paid Search,United States,Individual
+CUST-00966,2026-01-10,Social Ads,Canada,Individual
+CUST-00967,2025-04-12,Affiliate,United States,Individual
+CUST-00968,2024-04-12,Email Referral,Canada,SMB
+CUST-00969,2025-01-03,Email Referral,United States,SMB
+CUST-00970,2024-04-07,Email Referral,Canada,Individual
+CUST-00971,2024-05-21,Social Ads,United States,Individual
+CUST-00972,2025-03-24,Affiliate,United States,SMB
+CUST-00973,2025-01-16,Email Referral,United States,Individual
+CUST-00974,2025-04-12,Paid Search,United States,SMB
+CUST-00975,2026-03-30,Organic SEO,Canada,Individual
+CUST-00976,2024-05-15,Social Ads,United States,Corporate
+CUST-00977,2024-06-12,Paid Search,Canada,Individual
+CUST-00978,2025-08-05,Social Ads,United States,Individual
+CUST-00979,2025-01-02,Social Ads,Canada,SMB
+CUST-00980,2026-01-14,Affiliate,United States,Corporate
+CUST-00981,2024-04-25,Email Referral,United States,Individual
+CUST-00982,2025-11-01,Paid Search,Germany,Individual
+CUST-00983,2026-02-24,Social Ads,Germany,Individual
+CUST-00984,2025-11-16,Email Referral,United Kingdom,Individual
+CUST-00985,2025-09-25,Paid Search,Germany,Individual
+CUST-00986,2024-12-20,Social Ads,United Kingdom,Individual
+CUST-00987,2026-04-26,Organic SEO,Australia,Individual
+CUST-00988,2025-10-20,Affiliate,United Kingdom,Individual
+CUST-00989,2025-05-22,Email Referral,United States,Individual
+CUST-00990,2024-09-03,Paid Search,United States,Individual
+CUST-00991,2025-07-17,Social Ads,United States,Individual
+CUST-00992,2025-04-15,Organic SEO,United Kingdom,Individual
+CUST-00993,2025-05-25,Organic SEO,United States,Individual
+CUST-00994,2025-10-31,Paid Search,United States,Individual
+CUST-00995,2025-07-16,Paid Search,United States,Individual
+CUST-00996,2025-09-25,Social Ads,Canada,Individual
+CUST-00997,2025-11-01,Social Ads,Australia,Individual
+CUST-00998,2024-02-25,Email Referral,Canada,Individual
+CUST-00999,2026-02-24,Social Ads,United Kingdom,Individual
+CUST-01000,2026-01-03,Organic SEO,United States,Individual
+CUST-01001,2024-01-03,Paid Search,Canada,Corporate
+CUST-01002,2024-10-25,Organic SEO,United States,Individual
+CUST-01003,2026-07-07,Paid Search,United States,SMB
+CUST-01004,2026-01-08,Organic SEO,United States,Individual
+CUST-01005,2024-05-03,Affiliate,United States,Individual
+CUST-01006,2026-03-11,Paid Search,United States,SMB
+CUST-01007,2024-02-17,Affiliate,Canada,Individual
+CUST-01008,2026-03-01,Email Referral,United Kingdom,Individual
+CUST-01009,2025-05-31,Paid Search,United Kingdom,Individual
+CUST-01010,2024-02-19,Organic SEO,United States,Individual
+CUST-01011,2025-06-04,Social Ads,Canada,Individual
+CUST-01012,2024-06-26,Social Ads,United States,Individual
+CUST-01013,2025-09-06,Social Ads,United States,SMB
+CUST-01014,2025-03-04,Affiliate,Canada,SMB
+CUST-01015,2024-10-07,Organic SEO,United States,Individual
+CUST-01016,2026-04-04,Paid Search,United States,SMB
+CUST-01017,2026-02-05,Organic SEO,Canada,Individual
+CUST-01018,2024-11-17,Social Ads,Australia,Individual
+CUST-01019,2024-07-24,Paid Search,Germany,Individual
+CUST-01020,2026-08-01,Social Ads,Australia,Individual
+CUST-01021,2024-07-01,Organic SEO,Germany,Individual
+CUST-01022,2024-04-28,Social Ads,United Kingdom,Individual
+CUST-01023,2025-11-14,Social Ads,Germany,SMB
+CUST-01024,2025-06-30,Paid Search,Canada,SMB
+CUST-01025,2025-06-19,Paid Search,United States,Individual
+CUST-01026,2024-02-27,Paid Search,Germany,Individual
+CUST-01027,2024-10-20,Social Ads,United States,Individual
+CUST-01028,2026-03-14,Paid Search,Germany,Individual
+CUST-01029,2026-04-13,Organic SEO,United Kingdom,Individual
+CUST-01030,2025-07-29,Email Referral,Germany,Individual
+CUST-01031,2024-08-31,Organic SEO,Germany,Individual
+CUST-01032,2025-12-10,Social Ads,Australia,Individual
+CUST-01033,2026-03-18,Affiliate,United States,Individual
+CUST-01034,2024-01-14,Social Ads,United States,SMB
+CUST-01035,2026-05-31,Email Referral,Canada,Corporate
+CUST-01036,2025-12-22,Social Ads,United States,Individual
+CUST-01037,2026-01-26,Social Ads,Germany,Corporate
+CUST-01038,2024-10-28,Organic SEO,Australia,Individual
+CUST-01039,2024-06-26,Social Ads,United States,Individual
+CUST-01040,2024-10-12,Organic SEO,United States,Individual
+CUST-01041,2024-09-18,Paid Search,United Kingdom,Corporate
+CUST-01042,2024-02-10,Paid Search,United States,Individual
+CUST-01043,2025-10-02,Social Ads,Germany,Individual
+CUST-01044,2025-08-09,Organic SEO,United States,SMB
+CUST-01045,2025-06-22,Paid Search,United States,Individual
+CUST-01046,2025-06-01,Paid Search,United Kingdom,Individual
+CUST-01047,2024-12-23,Paid Search,United States,Individual
+CUST-01048,2025-01-04,Paid Search,Australia,Individual
+CUST-01049,2025-05-01,Affiliate,Canada,Corporate
+CUST-01050,2024-01-10,Paid Search,United States,Individual
+CUST-01051,2025-10-19,Social Ads,United Kingdom,Corporate
+CUST-01052,2025-11-29,Email Referral,United States,SMB
+CUST-01053,2024-04-26,Organic SEO,United Kingdom,Individual
+CUST-01054,2026-07-22,Organic SEO,Germany,Individual
+CUST-01055,2025-06-04,Organic SEO,United States,SMB
+CUST-01056,2024-07-16,Paid Search,United States,Individual
+CUST-01057,2026-03-02,Organic SEO,United States,Individual
+CUST-01058,2025-11-17,Social Ads,United States,Individual
+CUST-01059,2026-05-05,Paid Search,United Kingdom,SMB
+CUST-01060,2026-01-29,Social Ads,United Kingdom,Corporate
+CUST-01061,2026-02-03,Social Ads,United States,SMB
+CUST-01062,2024-02-08,Paid Search,United States,SMB
+CUST-01063,2025-07-25,Paid Search,Canada,Corporate
+CUST-01064,2025-02-21,Organic SEO,United Kingdom,Individual
+CUST-01065,2024-01-18,Organic SEO,United States,Individual
+CUST-01066,2026-01-07,Social Ads,Germany,Individual
+CUST-01067,2025-12-18,Email Referral,United States,Individual
+CUST-01068,2024-10-23,Social Ads,United States,Individual
+CUST-01069,2026-02-22,Affiliate,United States,SMB
+CUST-01070,2024-02-01,Organic SEO,United Kingdom,Individual
+CUST-01071,2025-02-04,Social Ads,Canada,Individual
+CUST-01072,2025-10-11,Paid Search,Germany,Corporate
+CUST-01073,2026-03-25,Email Referral,United Kingdom,Corporate
+CUST-01074,2024-01-12,Organic SEO,United Kingdom,Individual
+CUST-01075,2024-01-06,Organic SEO,United States,Individual
+CUST-01076,2024-03-28,Paid Search,Germany,Corporate
+CUST-01077,2024-12-18,Paid Search,Canada,SMB
+CUST-01078,2024-05-25,Paid Search,United States,SMB
+CUST-01079,2024-07-17,Paid Search,Germany,Individual
+CUST-01080,2024-02-25,Email Referral,Australia,Corporate
+CUST-01081,2025-04-17,Social Ads,United States,Individual
+CUST-01082,2024-09-13,Paid Search,Germany,Individual
+CUST-01083,2024-12-04,Organic SEO,Germany,Individual
+CUST-01084,2024-10-18,Social Ads,Canada,Individual
+CUST-01085,2025-04-06,Paid Search,Germany,Individual
+CUST-01086,2024-06-05,Organic SEO,United States,Individual
+CUST-01087,2025-03-14,Paid Search,United States,SMB
+CUST-01088,2025-12-30,Social Ads,United States,SMB
+CUST-01089,2024-05-17,Social Ads,United States,Individual
+CUST-01090,2025-04-01,Organic SEO,United States,Individual
+CUST-01091,2024-06-28,Social Ads,United States,Individual
+CUST-01092,2026-04-26,Paid Search,United Kingdom,Individual
+CUST-01093,2026-06-26,Social Ads,Germany,SMB
+CUST-01094,2026-05-19,Organic SEO,United States,Individual
+CUST-01095,2025-02-18,Social Ads,United States,Individual
+CUST-01096,2024-09-23,Organic SEO,Australia,Individual
+CUST-01097,2026-03-04,Paid Search,United States,SMB
+CUST-01098,2025-08-26,Social Ads,United States,Individual
+CUST-01099,2025-06-06,Paid Search,United States,Individual
+CUST-01100,2024-09-01,Email Referral,Canada,Individual
+CUST-01101,2024-06-18,Social Ads,United States,Individual
+CUST-01102,2025-08-02,Affiliate,Germany,Corporate
+CUST-01103,2026-01-23,Social Ads,Australia,Individual
+CUST-01104,2026-02-18,Organic SEO,United States,Individual
+CUST-01105,2024-02-13,Social Ads,United Kingdom,SMB
+CUST-01106,2025-02-01,Organic SEO,United Kingdom,Individual
+CUST-01107,2025-10-26,Paid Search,Germany,Individual
+CUST-01108,2026-04-29,Paid Search,Germany,Individual
+CUST-01109,2025-08-06,Paid Search,Germany,Individual
+CUST-01110,2025-10-31,Email Referral,United States,Individual
+CUST-01111,2026-07-18,Paid Search,United States,SMB
+CUST-01112,2024-12-19,Organic SEO,United Kingdom,Individual
+CUST-01113,2025-05-28,Email Referral,United States,Individual
+CUST-01114,2025-06-10,Social Ads,United States,Individual
+CUST-01115,2025-01-05,Social Ads,Canada,Individual
+CUST-01116,2025-02-28,Email Referral,Germany,Individual
+CUST-01117,2025-05-05,Organic SEO,United Kingdom,Individual
+CUST-01118,2025-02-24,Paid Search,United States,Individual
+CUST-01119,2024-06-13,Paid Search,United Kingdom,SMB
+CUST-01120,2024-05-30,Paid Search,United States,Individual
+CUST-01121,2025-02-19,Organic SEO,United Kingdom,Individual
+CUST-01122,2026-01-06,Social Ads,Canada,Corporate
+CUST-01123,2024-08-09,Organic SEO,Australia,SMB
+CUST-01124,2024-06-23,Paid Search,United States,Individual
+CUST-01125,2025-08-19,Email Referral,United States,Individual
+CUST-01126,2024-09-27,Paid Search,Germany,Corporate
+CUST-01127,2025-09-02,Organic SEO,United States,Individual
+CUST-01128,2024-04-21,Paid Search,United Kingdom,Corporate
+CUST-01129,2025-12-01,Organic SEO,United States,Individual
+CUST-01130,2025-05-02,Email Referral,United Kingdom,SMB
+CUST-01131,2025-06-28,Organic SEO,United States,Individual
+CUST-01132,2024-05-13,Email Referral,United Kingdom,Individual
+CUST-01133,2026-03-04,Social Ads,United States,Individual
+CUST-01134,2026-06-14,Paid Search,United Kingdom,Individual
+CUST-01135,2026-04-01,Organic SEO,Germany,Individual
+CUST-01136,2026-04-03,Social Ads,Germany,Individual
+CUST-01137,2024-04-10,Organic SEO,United States,SMB
+CUST-01138,2026-07-20,Email Referral,United States,SMB
+CUST-01139,2025-02-22,Paid Search,United States,SMB
+CUST-01140,2024-01-08,Organic SEO,United States,Individual
+CUST-01141,2025-11-01,Paid Search,Canada,Individual
+CUST-01142,2024-04-19,Paid Search,Germany,Individual
+CUST-01143,2026-05-25,Organic SEO,United Kingdom,Individual
+CUST-01144,2025-11-27,Organic SEO,United States,Individual
+CUST-01145,2025-07-24,Organic SEO,United States,Individual
+CUST-01146,2024-09-16,Affiliate,United Kingdom,SMB
+CUST-01147,2025-02-11,Social Ads,Canada,Individual
+CUST-01148,2026-02-04,Paid Search,Germany,Corporate
+CUST-01149,2024-04-12,Paid Search,United States,Individual
+CUST-01150,2025-07-17,Social Ads,Germany,Individual
+CUST-01151,2025-02-02,Affiliate,United States,Individual
+CUST-01152,2024-05-28,Organic SEO,United Kingdom,Individual
+CUST-01153,2024-09-26,Paid Search,United States,Individual
+CUST-01154,2025-01-28,Affiliate,United States,Individual
+CUST-01155,2024-10-20,Social Ads,United Kingdom,Corporate
+CUST-01156,2026-04-19,Paid Search,United Kingdom,Individual
+CUST-01157,2026-05-20,Social Ads,Canada,Individual
+CUST-01158,2024-02-04,Social Ads,United Kingdom,Individual
+CUST-01159,2025-09-21,Paid Search,United States,Individual
+CUST-01160,2024-01-01,Affiliate,United States,Individual
+CUST-01161,2025-02-13,Organic SEO,United States,Individual
+CUST-01162,2025-06-14,Paid Search,Germany,Corporate
+CUST-01163,2025-07-16,Paid Search,Canada,Corporate
+CUST-01164,2024-12-22,Paid Search,Canada,Individual
+CUST-01165,2024-07-18,Organic SEO,United States,Individual
+CUST-01166,2024-06-28,Organic SEO,United States,Individual
+CUST-01167,2024-10-28,Paid Search,United States,Individual
+CUST-01168,2024-09-20,Email Referral,Canada,Individual
+CUST-01169,2025-12-11,Organic SEO,United States,Individual
+CUST-01170,2024-09-06,Social Ads,Australia,Individual
+CUST-01171,2025-04-16,Email Referral,Canada,Individual
+CUST-01172,2024-09-21,Paid Search,United Kingdom,Corporate
+CUST-01173,2025-11-24,Social Ads,Canada,Individual
+CUST-01174,2024-12-27,Organic SEO,United States,SMB
+CUST-01175,2024-09-11,Paid Search,United States,SMB
+CUST-01176,2024-12-16,Paid Search,Australia,Individual
+CUST-01177,2024-12-28,Paid Search,United Kingdom,Individual
+CUST-01178,2026-02-03,Social Ads,Canada,Individual
+CUST-01179,2024-07-23,Paid Search,United States,Individual
+CUST-01180,2024-08-22,Paid Search,United States,Individual
+CUST-01181,2024-06-08,Social Ads,United States,Individual
+CUST-01182,2025-11-10,Organic SEO,United States,SMB
+CUST-01183,2024-02-13,Email Referral,United States,Individual
+CUST-01184,2026-07-08,Affiliate,Canada,SMB
+CUST-01185,2025-05-17,Paid Search,Germany,Individual
+CUST-01186,2025-02-11,Paid Search,United Kingdom,Individual
+CUST-01187,2026-03-29,Organic SEO,Australia,Individual
+CUST-01188,2024-12-21,Organic SEO,Germany,Individual
+CUST-01189,2024-05-03,Social Ads,United Kingdom,Individual
+CUST-01190,2024-01-13,Social Ads,United States,Individual
+CUST-01191,2025-01-05,Social Ads,United States,Individual
+CUST-01192,2024-08-30,Paid Search,Australia,Individual
+CUST-01193,2024-07-07,Organic SEO,United States,SMB
+CUST-01194,2025-01-16,Organic SEO,United States,Individual
+CUST-01195,2025-08-08,Paid Search,United Kingdom,Individual
+CUST-01196,2024-04-12,Social Ads,Canada,Individual
+CUST-01197,2026-05-26,Organic SEO,United States,Corporate
+CUST-01198,2024-06-02,Organic SEO,United States,Individual
+CUST-01199,2024-05-17,Affiliate,Canada,Individual
+CUST-01200,2026-01-07,Paid Search,United Kingdom,Individual
