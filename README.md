@@ -43,6 +43,12 @@ This project was built to answer three critical executive questions:
 
 ---
 
+## 🖥️ Executive Power BI Dashboard Preview
+![Executive Retention Dashboard](images/executive_dashboard.png)
+
+
+---
+
 ## 📂 Project Structure
 
 ```
